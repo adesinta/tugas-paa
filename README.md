@@ -1,8 +1,6 @@
-# tugas-paa
 <h2>Ade Sinta_F55121062</h2>
 
-<h2>Analisis Final Project PAA</h2>
-
+#Analisis Final Project PAA
 <h3>ALGORITMA BUBBLE SORT &amp; INSERTION SORT</h3>
 
 <h4>A. Bubble Sort</h4>
